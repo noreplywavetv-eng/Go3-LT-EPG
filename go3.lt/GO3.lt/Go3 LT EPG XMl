@@ -1,1 +1,209 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Go3 LT EPG" generator-info-url="https://go3.lt" source-info-name="Go3.lt" source-info-url="https://go3.lt">
+  <channel id="lrt1.lt">
+    <display-name lang="lt">LRT Pirmas</display-name>
+    <display-name lang="en">LRT</display-name>
+  </channel>
+  <channel id="lrt-kultura.lt">
+    <display-name lang="lt">LRT Kultūra</display-name>
+    <display-name lang="en">LRT Culture</display-name>
+  </channel>
+  <channel id="tv3.lt">
+    <display-name lang="lt">TV3</display-name>
+  </channel>
+  <channel id="tv3-plus.lt">
+    <display-name lang="lt">TV3 Plus</display-name>
+  </channel>
+  <channel id="tv6.lt">
+    <display-name lang="lt">TV6</display-name>
+  </channel>
+  <channel id="lnk.lt">
+    <display-name lang="lt">LNK</display-name>
+  </channel>
+  <channel id="lnk2.lt">
+    <display-name lang="lt">LNK2</display-name>
+  </channel>
+  <channel id="info-tv.lt">
+    <display-name lang="lt">Info TV</display-name>
+  </channel>
+  <channel id="baltijos-tv.lt">
+    <display-name lang="lt">Baltijos TV</display-name>
+  </channel>
+  <channel id="btv.lt">
+    <display-name lang="lt">BTV</display-name>
+  </channel>
+  <channel id="btv-plus.lt">
+    <display-name lang="lt">BTV Plus</display-name>
+  </channel>
+  <channel id="tv1.lt">
+    <display-name lang="lt">TV1</display-name>
+  </channel>
+  <channel id="tv8.lt">
+    <display-name lang="lt">TV8</display-name>
+  </channel>
+  <channel id="lietuvos-rytas-tv.lt">
+    <display-name lang="lt">Lietuvos Rytas TV</display-name>
+  </channel>
+  <channel id="duo3.lt">
+    <display-name lang="lt">Duo 3</display-name>
+  </channel>
+  <channel id="duo6.lt">
+    <display-name lang="lt">Duo 6</display-name>
+  </channel>
+  <channel id="go3-films.lt">
+    <display-name lang="lt">Go3 Films</display-name>
+  </channel>
+  <channel id="go3-cinema.lt">
+    <display-name lang="lt">Go3 Cinema</display-name>
+  </channel>
+  <channel id="go3-extra.lt">
+    <display-name lang="lt">Go3 Extra</display-name>
+  </channel>
+  <channel id="go3-series.lt">
+    <display-name lang="lt">Go3 Series</display-name>
+  </channel>
+  <channel id="go3-sport.lt">
+    <display-name lang="lt">Go3 Sport</display-name>
+  </channel>
+  <channel id="go3-sport-2.lt">
+    <display-name lang="lt">Go3 Sport 2</display-name>
+  </channel>
+  <channel id="go3-sport-3.lt">
+    <display-name lang="lt">Go3 Sport 3</display-name>
+  </channel>
+  <channel id="go3-sport-4.lt">
+    <display-name lang="lt">Go3 Sport 4</display-name>
+  </channel>
+  <channel id="go3-sport-5.lt">
+    <display-name lang="lt">Go3 Sport 5</display-name>
+  </channel>
+  <channel id="vb.lt">
+    <display-name lang="lt">Viasat Baltic</display-name>
+  </channel>
+  <channel id="viasat-explore.lt">
+    <display-name lang="lt">Viasat Explore</display-name>
+  </channel>
+  <channel id="viasat-history.lt">
+    <display-name lang="lt">Viasat History</display-name>
+  </channel>
+  <channel id="viasat-nature.lt">
+    <display-name lang="lt">Viasat Nature</display-name>
+  </channel>
+  <channel id="viasat-sport.lt">
+    <display-name lang="lt">Viasat Sport</display-name>
+  </channel>
+  <channel id="eurosport1.lt">
+    <display-name lang="lt">Eurosport 1</display-name>
+  </channel>
+  <channel id="eurosport2.lt">
+    <display-name lang="lt">Eurosport 2</display-name>
+  </channel>
+  <channel id="mtv.lt">
+    <display-name lang="lt">MTV</display-name>
+  </channel>
+  <channel id="vh1.lt">
+    <display-name lang="lt">VH1</display-name>
+  </channel>
+  <channel id="cnn.lt">
+    <display-name lang="lt">CNN</display-name>
+  </channel>
+  <channel id="bbc-news.lt">
+    <display-name lang="lt">BBC News</display-name>
+  </channel>
+  <channel id="euronews.lt">
+    <display-name lang="lt">Euronews</display-name>
+  </channel>
+  <channel id="al-jazeera.lt">
+    <display-name lang="lt">Al Jazeera</display-name>
+  </channel>
+  <channel id="sky-news.lt">
+    <display-name lang="lt">Sky News</display-name>
+  </channel>
+  <channel id="discovery-channel.lt">
+    <display-name lang="lt">Discovery Channel</display-name>
+  </channel>
+  <channel id="animal-planet.lt">
+    <display-name lang="lt">Animal Planet</display-name>
+  </channel>
+  <channel id="nat-geo.lt">
+    <display-name lang="lt">National Geographic</display-name>
+  </channel>
+  <channel id="nat-geo-wild.lt">
+    <display-name lang="lt">National Geographic Wild</display-name>
+  </channel>
+  <channel id="history-channel.lt">
+    <display-name lang="lt">History Channel</display-name>
+  </channel>
+  <channel id="tlc.lt">
+    <display-name lang="lt">TLC</display-name>
+  </channel>
+  <channel id="fox.lt">
+    <display-name lang="lt">FOX</display-name>
+  </channel>
+  <channel id="fox-life.lt">
+    <display-name lang="lt">FOX Life</display-name>
+  </channel>
+  <channel id="axn.lt">
+    <display-name lang="lt">AXN</display-name>
+  </channel>
+  <channel id="axn-black.lt">
+    <display-name lang="lt">AXN Black</display-name>
+  </channel>
+  <channel id="axn-white.lt">
+    <display-name lang="lt">AXN White</display-name>
+  </channel>
+  <channel id="sony-channel.lt">
+    <display-name lang="lt">Sony Channel</display-name>
+  </channel>
+  <channel id="cinemax.lt">
+    <display-name lang="lt">Cinemax</display-name>
+  </channel>
+  <channel id="hbo.lt">
+    <display-name lang="lt">HBO</display-name>
+  </channel>
+  <channel id="hbo-2.lt">
+    <display-name lang="lt">HBO 2</display-name>
+  </channel>
+  <channel id="cartoon-network.lt">
+    <display-name lang="lt">Cartoon Network</display-name>
+  </channel>
+  <channel id="disney-channel.lt">
+    <display-name lang="lt">Disney Channel</display-name>
+  </channel>
+  <channel id="disney-junior.lt">
+    <display-name lang="lt">Disney Junior</display-name>
+  </channel>
+  <channel id="nickelodeon.lt">
+    <display-name lang="lt">Nickelodeon</display-name>
+  </channel>
+  <channel id="nick-jr.lt">
+    <display-name lang="lt">Nick Jr.</display-name>
+  </channel>
+  <channel id="e-entertainment.lt">
+    <display-name lang="lt">E! Entertainment</display-name>
+  </channel>
+  <channel id="film-zone.lt">
+    <display-name lang="lt">Film Zone</display-name>
+  </channel>
+  <channel id="film-zone-plus.lt">
+    <display-name lang="lt">Film Zone+</display-name>
+  </channel>
+  <channel id="film-box.lt">
+    <display-name lang="lt">FilmBox</display-name>
+  </channel>
+  <channel id="kino-tv.lt">
+    <display-name lang="lt">Kino TV</display-name>
+  </channel>
+  <channel id="kino-1.lt">
+    <display-name lang="lt">Kino 1</display-name>
+  </channel>
+  <channel id="kino-2.lt">
+    <display-name lang="lt">Kino 2</display-name>
+  </channel>
+  <channel id="m1.lt">
+    <display-name lang="lt">M1</display-name>
+  </channel>
+  <channel id="m2.lt">
+    <display-name lang="lt">M2</display-name>
+  </channel>
+</tv>
